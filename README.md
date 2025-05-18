@@ -1,5 +1,3 @@
-# Python-
-python practice
 Static pages order:
 
 login.html -> welcome.html -> data.html -> matches.html -> subject_details.html -> resolved_results.html
